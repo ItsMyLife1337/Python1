@@ -9,3 +9,4 @@ if __name__ == '__main__':
     }
     print(numb)
     print({v: k for k, v in numb.items()})
+
