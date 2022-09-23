@@ -17,4 +17,3 @@ if __name__ == '__main__':
     del school['7B']
     S = sum(school.values())
     print('\n', school, '\n', "Общее количество учеников в школе :", S)
-            
