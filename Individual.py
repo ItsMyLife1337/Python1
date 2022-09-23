@@ -83,3 +83,4 @@ if __name__ == '__main__':
                 print("Студенты с баллом 4.0 и выше не найдены.")
         else:
             print(f"Неизвестная команда {command}", file=sys.stderr)
+                    
